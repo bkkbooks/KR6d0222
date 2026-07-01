@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0222/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶雲振祖集
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0944.xml
+    old_id: X56n0944
+hash: sha256:98ff2727d4612947a2d549fd33a1f3c803952ef3f67148fdec7cc7639ad49e09
