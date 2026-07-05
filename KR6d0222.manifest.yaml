@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0222_000.yaml, hash: 'sha256:98ff2727d4612947a2d549fd33a1f3c803952ef3f67148fdec7cc7639ad49e09'}
-  - {seq: 1, filename: KR6d0222_001.yaml, hash: 'sha256:7911b4ae1b37080ad1ac8e91dce60bb19e9a9b7f876057eb343c47a84d2d55c6'}
+  - {seq: 1, filename: KR6d0222_001.yaml, hash: 'sha256:27cfd9711a91fd6a792cc8ba6de4890d825d0edf14f8326c7081f3588cf0c90e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0222_001.markers.yaml, hash: 'sha256:ba546f333722dc5d4d1cf09105c0d532b93e75c85dabed820d4aa47a2c316fc8'}
+  - {seq: 0, role: markers, filename: assets/KR6d0222_000.markers.yaml, hash: 'sha256:602c0e6d2bbf9145b1f6c97cda08675aa19edb61849660e15e7f6af7db901e60'}
+  - {seq: 1, role: markers, filename: assets/KR6d0222_001.markers.yaml, hash: 'sha256:ccec2cd5a284c9b905c267cb8b8f2c80d9dbdef52718bd777712e00f6d15eb34'}
 table_of_contents:
 - ref:
     seq: 1
@@ -336,7 +337,4 @@ table_of_contents:
   label: 法雨堂題名
   type: mulu
   level: 1
-hash: sha256:68def4e819f59f2c885489f3079ef6d8be291d7b3809bf9e057a1c4a5f20eee3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8484150ab6c90d010d952a0d6ea590778433015d78730156d566348c33df85ab
