@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0222/v1
 canonical_location: https://kanripo.org/bkk/KR6d0222/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 寶雲振祖集
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0222_000.yaml, hash: 'sha256:98ff2727d4612947a2d549fd33a1f3c803952ef3f67148fdec7cc7639ad49e09'}
-  - {seq: 1, filename: KR6d0222_001.yaml, hash: 'sha256:27cfd9711a91fd6a792cc8ba6de4890d825d0edf14f8326c7081f3588cf0c90e'}
+  - {seq: 1, filename: KR6d0222_001.yaml, hash: 'sha256:5e8ede12edf9c57c88d37d21dc9d5f6f11744155a981952f924b6926776a41f4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0222_000.markers.yaml, hash: 'sha256:602c0e6d2bbf9145b1f6c97cda08675aa19edb61849660e15e7f6af7db901e60'}
-  - {seq: 1, role: markers, filename: assets/KR6d0222_001.markers.yaml, hash: 'sha256:ccec2cd5a284c9b905c267cb8b8f2c80d9dbdef52718bd777712e00f6d15eb34'}
+  - {seq: 1, role: markers, filename: assets/KR6d0222_001.markers.yaml, hash: 'sha256:4ac2dae8514e1574ca1640bf2b1feb9c4f8953c2654e473bfd2017315f91220d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -337,4 +337,7 @@ table_of_contents:
   label: 法雨堂題名
   type: mulu
   level: 1
-hash: sha256:8484150ab6c90d010d952a0d6ea590778433015d78730156d566348c33df85ab
+hash: sha256:3278ab57f2d0b15b1058cffeeb053902405f92a21c2433555a26e9d72119368c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
